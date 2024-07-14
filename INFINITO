@@ -1,0 +1,7 @@
+echo "# INFINITO" >>README.md
+git init
+git add README.md
+git commit -m "primeiro commit"
+git bbranch -M main
+git remote add origin http://xshi2011git@github.com/INFINITO.git
+ git push -u origin main
